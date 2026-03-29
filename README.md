@@ -1,8 +1,54 @@
-# Dataset-covers-Spotify-Wrapped-2025-data.sql
-SQL analysis of Spotify Wrapped 2025 data exploring top songs, artists, and streaming trends.
-### Top Artists by Total Streams (2025)
+# 🎧 Spotify Data Analysis (2025)
 
-This analysis shows which artists generated the highest total streams in 2025.  
-A small number of artists dominate overall streaming volume, indicating a strong concentration of popularity.
+## 📌 Project Overview
+This project analyzes Spotify streaming data for 2025 to identify trends in song popularity, artist dominance, and ranking dynamics.
 
-![Top Songs](image/top_songs.png)
+---
+
+## 🛠️ Tools & Technologies
+- SQL (SQLite)
+- GitHub
+- CSV datasets (Kaggle)
+
+---
+
+## 📊 Key Analyses
+
+### 1. Top 10 Most Streamed Songs (2025)
+
+![Top Songs](images/top_songs.png)
+
+👉 Insight: The most streamed songs significantly outperform others, indicating a strong popularity gap.
+
+---
+
+### 2. Top Artists by Total Streams (2025)
+
+![Top Artists](images/top_artists.png)
+
+👉 Insight: A small group of artists dominates total streaming volume, suggesting a winner-takes-most dynamic.
+
+---
+
+### 3. Relationship Between Streams and Ranking Presence (2025)
+
+![Streams vs Ranking](images/streams_vs_ranking.png)
+
+👉 Insight: Artists with higher total streams tend to appear more frequently in the Top 50, indicating a concentration of popularity.
+
+---
+
+## 📂 Dataset
+Spotify Wrapped 2025 dataset (Kaggle)
+
+---
+
+## 🎯 Key Takeaways
+- Streaming distribution is highly uneven  
+- Top artists dominate the platform  
+- Popularity strongly influences ranking presence  
+
+---
+
+## 🚀 Project Purpose
+This project was created as part of my journey toward becoming a Data Analyst, focusing on SQL and data exploration.
