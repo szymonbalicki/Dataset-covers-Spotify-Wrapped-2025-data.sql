@@ -107,13 +107,13 @@ A simplified mobile layout was also created to ensure readability and usability 
 
 ```id="9k2q1m"
 📁 spotify-streams-analysis
- ├── 📁 SQL
- │    ├── queries.sql
- │    ├── top_songs.png
- │    ├── top_artists.png
- │    └── artist_impact.png
  ├── 📁 PowerBI
  │    └── dashboard.png
+ ├── 📁 SQL
+ │    ├── queries.sql
+ │    ├── Impact.png
+ │    ├── top_artist.png
+ │    └── top_songs.png
  └── README.md
 ```
 
