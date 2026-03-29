@@ -10,6 +10,13 @@ This project analyzes Spotify data using SQL to uncover patterns in popularity, 
 - GitHub
 - CSV datasets (Kaggle)
 
+## 🧠 SQL Skills Demonstrated
+- Aggregations (SUM, AVG, COUNT)
+- GROUP BY analysis
+- Sorting and ranking (ORDER BY, LIMIT)
+- Data exploration and insight extraction
+
+  
 ---
 
 ## 📊 Key Analyses
