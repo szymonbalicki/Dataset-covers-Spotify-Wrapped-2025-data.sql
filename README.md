@@ -1,9 +1,9 @@
 # 🎧 Spotify Data Analysis (2025)
 
-## 📌 Project Overview
-This project analyzes Spotify streaming data for 2025 to identify trends in song popularity, artist dominance, and ranking dynamics.
+## 📌 Business Question
+Which artists and songs dominate Spotify in 2025, and how does streaming volume influence ranking presence?
 
----
+This project analyzes Spotify data using SQL to uncover patterns in popularity, dominance, and ranking dynamics.
 
 ## 🛠️ Tools & Technologies
 - SQL (SQLite)
