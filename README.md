@@ -32,7 +32,7 @@ This project analyzes Spotify streaming data for 2025 to identify trends in song
 
 ### 3. Relationship Between Streams and Ranking Presence (2025)
 
-![Streams vs Ranking](image/Impact.png)
+![Impact](image/Impact.png)
 
 👉 Insight: Artists with higher total streams tend to appear more frequently in the Top 50, indicating a concentration of popularity.
 
