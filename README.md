@@ -75,6 +75,10 @@ An interactive dashboard was created to visualize the data and enable dynamic ex
 
 The dashboard allows users to explore how metrics change based on selected artists or songs.
 
+## 🔗 Live Dashboard
+
+👉 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWY2MmNjNGMtNWUyZi00MmMxLWE0NWYtZTI5NDczNjJiYWU5IiwidCI6ImU4MGE2MjdmLWVmOTQtNGFhOS04MmQ2LWM3ZWM5Y2ZjYTMyNCIsImMiOjh9)
+
 ---
 
 ## 📱 Mobile Version
