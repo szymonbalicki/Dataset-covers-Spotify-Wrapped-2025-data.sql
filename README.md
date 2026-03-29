@@ -5,4 +5,4 @@ SQL analysis of Spotify Wrapped 2025 data exploring top songs, artists, and stre
 This analysis shows which artists generated the highest total streams in 2025.  
 A small number of artists dominate overall streaming volume, indicating a strong concentration of popularity.
 
-![Top Songs](images/top_songs.png)
+![Top Songs](image/top_songs.png)
